@@ -1,4 +1,4 @@
-# FRLNet Policy Manager Simulator
+# FRLNet Policy Manager
 
 MATLAB implementation of the **FRLNet Policy Manager Algorithm**, a hybrid reinforcement learning framework for queue-aware scheduling and resource-efficient decision making in UAV networks.
 
