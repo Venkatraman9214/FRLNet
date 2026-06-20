@@ -221,8 +221,6 @@ This simulator can be used for studying:
 Planned extensions include:
 
 - Multi-Agent Cooperative Learning
-- Dynamic Topology Adaptation
-- Gilbert-Elliott Wireless Channels
 - Hardware-in-the-Loop UAV Testbeds
 - Energy-Aware Scheduling
 - Multi-Hop Routing
