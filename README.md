@@ -1,7 +1,3 @@
-# FRLNet
-MATLAB implementation of FRLNet: a hybrid model-free/model-based reinforcement learning framework for queue-aware scheduling, decentralized UAV networking, and frugal resource-constrained decision making.
-
-
 # FRLNet Policy Manager Simulator
 
 MATLAB implementation of the **FRLNet Policy Manager Algorithm**, a hybrid reinforcement learning framework for queue-aware scheduling and resource-efficient decision making in UAV networks.
